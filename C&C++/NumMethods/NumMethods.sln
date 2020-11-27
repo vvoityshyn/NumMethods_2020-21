@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumMethods.Practice_Task_01
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumMethods.Practice_Task_02-01", "NumMethods.Practice_Task_02-01\NumMethods.Practice_Task_02-01.vcxproj", "{9C923DB1-CD27-4437-AD44-B165192BAEFF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumMethods.Practice_Task_03-A", "NumMethods.Practice_Task_03-A\NumMethods.Practice_Task_03-A.vcxproj", "{D574387D-7609-4AA2-8845-F700F2039A63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{9C923DB1-CD27-4437-AD44-B165192BAEFF}.Release|x64.Build.0 = Release|x64
 		{9C923DB1-CD27-4437-AD44-B165192BAEFF}.Release|x86.ActiveCfg = Release|Win32
 		{9C923DB1-CD27-4437-AD44-B165192BAEFF}.Release|x86.Build.0 = Release|Win32
+		{D574387D-7609-4AA2-8845-F700F2039A63}.Debug|x64.ActiveCfg = Debug|x64
+		{D574387D-7609-4AA2-8845-F700F2039A63}.Debug|x64.Build.0 = Debug|x64
+		{D574387D-7609-4AA2-8845-F700F2039A63}.Debug|x86.ActiveCfg = Debug|Win32
+		{D574387D-7609-4AA2-8845-F700F2039A63}.Debug|x86.Build.0 = Debug|Win32
+		{D574387D-7609-4AA2-8845-F700F2039A63}.Release|x64.ActiveCfg = Release|x64
+		{D574387D-7609-4AA2-8845-F700F2039A63}.Release|x64.Build.0 = Release|x64
+		{D574387D-7609-4AA2-8845-F700F2039A63}.Release|x86.ActiveCfg = Release|Win32
+		{D574387D-7609-4AA2-8845-F700F2039A63}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
