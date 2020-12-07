@@ -7,7 +7,7 @@ double F(double x);
 
 int main()
 {
-	cout << "Numerical Methods: Practice Task #03 / Example A" << endl;
+	cout << "Numerical Methods: Practice Task #03 / Example A (trapezoid rule)" << endl;
 
 	double a = 0;
 	double b = 1;

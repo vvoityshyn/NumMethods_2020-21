@@ -19,12 +19,18 @@ int main()
 	const int rows = 4;
 	const int cols = 5;
 	// Augmented matrix of the linear system
+	//double C[rows][cols] = {
+	//		{2, -1, 1, -1, 1},
+	//		{2, -1, 0, -3, 2},
+	//		{3, 0, -1, 1, -3},
+	//		{2, 2, -2, 5, -6}
+	//	};	
 	double C[rows][cols] = {
-			{2, -1, 1, -1, 1},
-			{2, -1, 0, -3, 2},
-			{3, 0, -1, 1, -3},
-			{2, 2, -2, 5, -6}
-		};	
+		{1, 2, -1, 1, 0},
+		{2, 5, 1, 1, 4},
+		{1, 3, 2, 1, 5},
+		{3, 7, -1, 3, 2}
+	};
 
 	printf("Augmented matrix of a system of linear algebraic equations:\n");
 	PrintMatrix(C[0], 4, 5);
